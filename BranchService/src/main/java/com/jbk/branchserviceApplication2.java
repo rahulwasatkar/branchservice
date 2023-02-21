@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class branchserviceApplication2 {
 
 	public static void main(String[] args) {
+		
+		System.out.println("RK");
 		SpringApplication.run(branchserviceApplication2.class, args);
 	}
 
