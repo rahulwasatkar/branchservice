@@ -4,5 +4,6 @@ public class Rahul {
 
 	
 	int no ;
-	int name ;
+	String name;
+	String surname;
 }
